@@ -1,7 +1,7 @@
 <h1>Jogo da Forca em C</h1>
 
 <h2>Sobre</h2>
-<p>Projeto desenvolvido na linguagem C como prática nos conhecimentos sobre a linguagem. Neste curso, desenvolvido juntamento com a plataforma Alura, foi recriado o jogo da forca onde o 
+<p>Projeto desenvolvido na linguagem C como prática nos conhecimentos sobre a linguagem. Neste curso, desenvolvido juntamente com a plataforma Alura, foi recriado o jogo da forca onde o 
 usuário realiza tentativas para advinhar a palavra secreta, tendo a possibilidade de adicionar novas palavras ao final do jogo.</p>
 
 ## Como usar

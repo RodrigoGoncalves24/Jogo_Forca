@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
 <p>Projeto desenvolvido na linguagem C como prática nos conhecimentos sobre a linguagem. Neste curso, desenvolvido juntamente com a plataforma Alura, foi recriado o jogo da forca onde o 
-usuário realiza tentativas para advinhar a palavra secreta, tendo a possibilidade de adicionar novas palavras ao final do jogo.</p>
+usuário realiza tentativas para advinhar a palavra secreta, havendo a possibilidade de adicionar novas palavras ao final do jogo.</p>
 
 ## Como usar
   <p>Para ter uma melhor compilação dos arquivos, a sugestão é rodar eles pelo <strong>TERMINAL</strong> do compilador utilizado com os seguintes códigos: "gcc -c Forca Forca.c" e, logo após, utilizar o comando
